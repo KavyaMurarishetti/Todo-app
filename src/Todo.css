@@ -1,0 +1,79 @@
+body{
+    background-color: rgba(0,0,0, 0.1)
+  
+}
+#maindiv{
+    width: 30vw;
+    margin: 5em auto;
+    padding: 50px,30px;
+
+    /* background-color: beige; */
+    background-color:white;
+   
+    position: relative;
+    border-width: 5px;
+    border-radius: 30px;
+    border-style: ridge;
+    border-color:green;
+  
+}
+
+h1{
+    
+    position: relative;
+    left: 100px;
+    font-size:50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+
+   }
+input{
+    position: relative;
+    background-color: rgb(186, 244, 186);
+    left: 50px;
+    width: 300px;
+    height: 30px;
+   
+}
+#add{
+    position: relative;
+    
+    left: 50px;
+    height: 30px;
+    background-color:black;
+    color: white;
+}
+section h5 {
+     width:300px ;
+    height: 15px;  
+    margin: 0.5em;
+    padding: 0.5em;
+    background-color:rgba(0, 0,0, 0.04);
+    position: relative;
+    left: 50px;
+    display: inline-block;
+    border-width: 1px;
+    border-radius: 5px;
+    border-style: ridge;
+    border-color:green;
+    text-indent: 20px;
+}
+
+
+section button{
+    
+    position: relative;
+    right: 60px; 
+    background-color: blue;
+    color:white;
+    border-radius: 5px;
+    border-color: white;
+    border-width: 2px;
+    border-style: groove;
+  
+} 
+#clear{
+    position: relative;
+    left: 170px;
+    border-radius: 10px;
+}
+
